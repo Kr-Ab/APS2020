@@ -1,2 +1,2 @@
 # APS2020
-All assignments from APS-2020 elective batch.
+All assignments from APS-2020 course
